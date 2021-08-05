@@ -1,2 +1,2 @@
-# Spring-boot-Blogging-API
+# Spring_boot_Blogging_API
 blogging API developed using spring boot
